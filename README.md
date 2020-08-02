@@ -5,5 +5,5 @@ Go to root directory and execute below command
 ```bash
 mvn clean test
 ```
-# contributor
-Satyapriya
+# Contributor
+SatyaPriya Mohanty
